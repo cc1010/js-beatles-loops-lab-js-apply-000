@@ -16,6 +16,7 @@ function theBeatlesPlay(musicians , instruments) {
 
 theBeatlesPlay(musicians, instruments)
 
+<<<<<<< HEAD
 //////////////////////
 
 const facts = ['a', 'b', 'c', 'd']
@@ -47,3 +48,6 @@ function iLoveTheBeatles (num){
   return newArray;
 }
 iLoveTheBeatles(num)
+=======
+function johnLennonFacts
+>>>>>>> 867f26e31ab3793dc91f8a9712c4a588b5903b1a
